@@ -25,16 +25,16 @@ The main goal is to compare the performance of various search strategies in solv
 ---
 
 ## 📂 Project Structure
-8-puzzle-solver/
-│
-├── Astar.py # A* algorithm implementation
-├── ida.py # IDA* algorithm implementation
-├── ids.py # IDS algorithm implementation
-├── input.txt # Example input
-├── requirements.txt # Dependencies (numpy)
-├── README.md # Project documentation
-├── .gitignore # Ignored files for Git
-└── LICENSE # MIT License
+8-puzzle-solver/:
+         │
+         ├── Astar.py # A* algorithm implementation
+         ├── ida.py # IDA* algorithm implementation
+         ├── ids.py # IDS algorithm implementation
+         ├── input.txt # Example input
+         ├── requirements.txt # Dependencies (numpy)
+         ├── README.md # Project documentation
+         ├── .gitignore # Ignored files for Git
+         └── LICENSE # MIT License
 
 
 ---
