@@ -92,11 +92,37 @@ Example Output (A*):
 
 
 🔍 Algorithm Comparison :
-    | Algorithm | Heuristic | Memory Usage | Speed  | Guarantees Optimal Solution |
-    | --------- | --------- | ------------ | ------ | --------------------------- |
-    | A\*       | Manhattan | High         | Fast   | ✅ Yes                       |
-    | IDA\*     | Manhattan | Low          | Medium | ✅ Yes                       |
-    | IDS       | None      | Very Low     | Slow   | ❌ No                        |
+Algorithm Comparison
+
+   A*
+
+      Heuristic: Manhattan Distance
+      
+      Memory Usage: High
+      
+      Speed: Fast
+      
+      Guarantees Optimal Solution: Yes ✅
+   
+   IDA*
+   
+      Heuristic: Manhattan Distance
+      
+      Memory Usage: Low
+      
+      Speed: Medium
+      
+      Guarantees Optimal Solution: Yes ✅
+   
+   IDS
+   
+      Heuristic: None
+      
+      Memory Usage: Very Low
+      
+      Speed: Slow
+      
+      Guarantees Optimal Solution: No ❌
 
 
 🛠 Requirements:
