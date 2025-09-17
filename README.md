@@ -25,6 +25,7 @@ The main goal is to compare the performance of various search strategies in solv
 ---
 
 ## 📂 Project Structure
+~~~
 8-puzzle-solver/:
          │
          ├── Astar.py # A* algorithm implementation
@@ -35,7 +36,7 @@ The main goal is to compare the performance of various search strategies in solv
          ├── README.md # Project documentation
          ├── .gitignore # Ignored files for Git
          └── LICENSE # MIT License
-
+~~~
 
 ---
 
